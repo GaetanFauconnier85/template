@@ -1,8 +1,8 @@
 {
-  "name": "basic-template",
+  "name": "basicTemplate",
   "version": "0.0.1",
   "description": "React Native Basic Template",
-  "repository": "git@github.com:GaetanFauconnier85/template.git",
+  "repository": "https://github.com:GaetanFauconnier85/template.git",
   "author": "Gaëtan Fauconnier <fauconnier85@gmail.com>",
   "license": "MIT"
 }
